@@ -5,6 +5,9 @@ FrontEnd : HTML, CSS, Javascript, Bootstrap
 Web application framework: django
 Database: sqlite3
 
+DEPENDENCIES
+
 ```
 pip install django
+pip install xhtml2pdf
 ```
